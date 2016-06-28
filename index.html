@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cara ou Coroa | gusson.esy.es</title>
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <script type="text/javascript" src="js/cara-coroa.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="text-center">
+                <div class="page-header">
+                    <h1>Cara ou Coroa</h1>
+                </div>
+                <div class="col-md-offset-4 col-sm-4">
+                    <p>
+                        <button type="button" class="btn btn-primary" onclick="jogar();">
+                            <i class="glyphicon glyphicon-play"></i> JOGAR</button>
+                        <button type="button" class="btn btn-default" onclick="limpar();">
+                            <i class="glyphicon glyphicon-erase"></i> LIMPAR</button>
+                    </p>
+                </div>
+                <div class="table-responsive col-md-offset-4 col-sm-4">
+                    <table class="table table-condensed">
+                        <thead>
+                            <tr>
+                                <th>JOGADAS</th>
+                                <th>CARAS</th>
+                                <th>COROAS</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><input type="number" class="jogadas form-control" value="0" disabled></td>
+                                <td><input type="number" class="caras form-control" value="0" disabled></td>
+                                <td><input type="number" class="coroas form-control" value="0" disabled></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-offset-4 col-sm-4">
+                    <p>
+                        <img class="img-responsive img-circle center-block" src="" alt="" id="moeda"/>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
