@@ -4,4 +4,4 @@
 ![Alt Text](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-desktop.png?raw=true "Desktop")
 
 # Exibição em dispositivos mobile
-![Alt Text](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-mobile.jpg?raw=true "Mobile")
+![Alt Text](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-mobile.png?raw=true "Mobile")
