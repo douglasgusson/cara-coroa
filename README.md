@@ -1,7 +1,9 @@
-# Jogo de cara ou coroa, desenvolvido em Javascript
+# Cara ou Coroa
 
-# Exibição em desktops
-![Alt Text](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-desktop.png?raw=true "Desktop")
+Jogo de cara ou coroa, desenvolvido em Javascript
 
-# Exibição em dispositivos mobile
-![Alt Text](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-mobile.png?raw=true "Mobile")
+### Exibição em desktops
+![Print desktop](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-desktop.png?raw=true "Desktop")
+
+### Exibição em dispositivos mobile
+![Print mobile](https://raw.githubusercontent.com/douglasgusson/cara-coroa/master/img/print-mobile.png?raw=true "Mobile")
